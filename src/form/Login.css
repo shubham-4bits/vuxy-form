@@ -1,0 +1,70 @@
+
+.login{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(192, 201, 229);
+    /* background: url(https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500); */
+}
+.admin_id{
+    background-color: rgb(136, 163, 247);
+    border-radius: 10px;
+    width: 20vw;
+    color: white;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+}
+.pp{
+ margin-left: 16px;
+}
+.create{
+    display: flex;
+}
+.forgot{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    background-color: royalblue;
+    width: 21vw;
+    height: 6vh;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.logo{
+    z-index: 1;
+}
+.login img{
+    width: 60vw;
+    height: 100vh;
+    z-index: -1;
+}
+.login_page{
+    background-color: white;
+    z-index: 1;
+    height: 50%;
+    border: none;
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.admin_id{
+    display: flex;
+}
+.Email > input{
+    border-radius: 7px;
+    height: 5vh;
+width: 20vw;}
+
+
+.remenber{
+    display: flex;
+}
+

@@ -1,0 +1,25 @@
+.Home{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.side_right{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar{
+    width: 70vw;
+    height: 15vh;
+    border: 2px solid black;
+    display: flex;
+   justify-content: space-between;
+}
+.icon_right{
+    display: flex;
+}
+.side_left{
+    width: 18vw;
+    height: 90vh;
+    border: 2px solid black;
+}

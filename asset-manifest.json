@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vuxy-form/static/css/main.af2e21b9.chunk.css",
-    "main.js": "/vuxy-form/static/js/main.c69cfa9a.chunk.js",
-    "main.js.map": "/vuxy-form/static/js/main.c69cfa9a.chunk.js.map",
+    "main.css": "/vuxy-form/static/css/main.af5e5812.chunk.css",
+    "main.js": "/vuxy-form/static/js/main.172b7c45.chunk.js",
+    "main.js.map": "/vuxy-form/static/js/main.172b7c45.chunk.js.map",
     "runtime-main.js": "/vuxy-form/static/js/runtime-main.2a2c5547.js",
     "runtime-main.js.map": "/vuxy-form/static/js/runtime-main.2a2c5547.js.map",
     "static/js/2.448f319b.chunk.js": "/vuxy-form/static/js/2.448f319b.chunk.js",
     "static/js/2.448f319b.chunk.js.map": "/vuxy-form/static/js/2.448f319b.chunk.js.map",
     "index.html": "/vuxy-form/index.html",
-    "static/css/main.af2e21b9.chunk.css.map": "/vuxy-form/static/css/main.af2e21b9.chunk.css.map",
+    "static/css/main.af5e5812.chunk.css.map": "/vuxy-form/static/css/main.af5e5812.chunk.css.map",
     "static/js/2.448f319b.chunk.js.LICENSE.txt": "/vuxy-form/static/js/2.448f319b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a2c5547.js",
     "static/js/2.448f319b.chunk.js",
-    "static/css/main.af2e21b9.chunk.css",
-    "static/js/main.c69cfa9a.chunk.js"
+    "static/css/main.af5e5812.chunk.css",
+    "static/js/main.172b7c45.chunk.js"
   ]
 }

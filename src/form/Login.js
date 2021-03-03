@@ -9,14 +9,21 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 const Login = () => {
   return (
     <div className="login">
-      <div className="logo">🔥 logoo 🔥</div>
-        {/* <img src="https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/> */}
+      <div className="logo">Vuexy</div>
 
       <div className="login_page">
-        <h1>Welcome to Vuexy ! 👏</h1>
+          <div className="welcome">
 
-        <p>Please sign-in to youre account andd 
-            start the advanture</p>
+        <h1>Welcome to Vuexy ! 👏</h1>
+          </div>
+          
+<div className="ac">
+    <div className="p_bottom">
+        <p>Please sign-in to youre account and start  </p>
+        </div>
+            <p>the advanture</p>
+
+</div>
        
         <div className="admin_id">
           <div className="name">
@@ -24,7 +31,7 @@ const Login = () => {
             <p>Client:client@demon.com |client</p>
           </div>
           <div className="que">
-            <p>❓</p>
+            {/* <p>❓</p> */}
           </div>
         </div>
 
@@ -34,16 +41,20 @@ const Login = () => {
             <div className="forgot">
             <p>password</p>
             <NavLink to="/Forgot">
+                <div className="forgot_link">
+
             <p>Forgot Password ?</p>
+                </div>
             </NavLink>
 
             </div>
             <input type="password" placeholder="*******"/>
 
         </div>
-        <div className="remender">
-        <p><input type="checkbox"/>Remember</p>
-
+        <div className="now">
+              
+              <p><input type="checkbox"/>Remember me</p>
+          
         </div>
 
         <NavLink to="/Home">
@@ -55,10 +66,8 @@ const Login = () => {
 
         <div className="create">
             <p>New on our platform ? </p>
-        <NavLink to="/Registration">
-            <div className="ac">
+        <NavLink className="navl" to="/Registration">
                 <p>Create an account</p>
-            </div>
         </NavLink>
         </div>
 

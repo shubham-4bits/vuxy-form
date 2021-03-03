@@ -11,12 +11,19 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 const Registration = () => {
     return (
         <div className="login">
-        <div className="logo">🔥 logoo 🔥</div>
-  
+       <div className="logo">Vuexy</div>
         <div className="login_page">
+        <div className="welcome">
           <h1>Welcome to Vuexy ! 🚀</h1>
+          </div>
   
-          <p>Please sign-in to youre account andd start the advanture</p>
+                  
+<div className="ac">
+ 
+        <p>Make your app managment easy and fun! </p>
+           
+
+</div>
          
           <div className="admin_id">
             <div className="name">
@@ -24,7 +31,7 @@ const Registration = () => {
               <p>Client:client@demon.com |client</p>
             </div>
             <div className="que">
-              <p>❓</p>
+              {/* <p>❓</p> */}
             </div>
           </div>
   
@@ -37,9 +44,9 @@ const Registration = () => {
               <input type="password" placeholder="************"/>
   
           </div>
-          <div className="remenber">
+          <div className="now">
               
-              <p><input type="checkbox"/>Remember</p>
+              <p><input type="checkbox"/>Remember me</p>
           </div>
 
           <NavLink to="/Home">
@@ -53,9 +60,7 @@ const Registration = () => {
           <div className="create">
               <p>Already have an account ? </p>
           <NavLink to="/">
-              <div className="ac">
                   <p>Sign in instead</p>
-              </div>
           </NavLink>
           </div>
   

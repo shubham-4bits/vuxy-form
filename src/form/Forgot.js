@@ -5,14 +5,19 @@ import { NavLink } from "react-router-dom";
 const Forgot = () => {
     return (
         <div>
-            <h1>forgot</h1>
             <div className="login">
-      <div className="logo">🔥 logoo 🔥</div>
+            <div className="logo">Vuexy</div>
 
       <div className="login_page">
+          <div className="top_l">
         <h1>Forgot Password? 🔒</h1>
-        <p className="pp">Enter your email and we'll send you instructions to reset your password</p>
 
+        <div className="phead">
+        <p >Enter your email and we'll send you </p>
+        </div>
+        <div className="p_bott">
+         <p>instructions to reset your password</p>
+        </div>
         <div className="Email">
            <p>Email</p>
             <input type="email" placeholder="admin@demo.com"/>
@@ -34,14 +39,13 @@ const Forgot = () => {
         <div className="create">
             <p>New on our platform ? </p>
         <NavLink to="/Registration">
-            <div className="ac">
                 <p> Back to login</p>
-            </div>
+            
         </NavLink>
         </div>
 
 
-
+        </div>
       </div>
     </div>
         </div>

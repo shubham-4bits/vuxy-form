@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vuxy-form/static/css/main.16b86956.chunk.css",
-    "main.js": "/vuxy-form/static/js/main.58c193c7.chunk.js",
-    "main.js.map": "/vuxy-form/static/js/main.58c193c7.chunk.js.map",
+    "main.js": "/vuxy-form/static/js/main.b1798df7.chunk.js",
+    "main.js.map": "/vuxy-form/static/js/main.b1798df7.chunk.js.map",
     "runtime-main.js": "/vuxy-form/static/js/runtime-main.2a2c5547.js",
     "runtime-main.js.map": "/vuxy-form/static/js/runtime-main.2a2c5547.js.map",
     "static/js/2.2f435e7d.chunk.js": "/vuxy-form/static/js/2.2f435e7d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2a2c5547.js",
     "static/js/2.2f435e7d.chunk.js",
     "static/css/main.16b86956.chunk.css",
-    "static/js/main.58c193c7.chunk.js"
+    "static/js/main.b1798df7.chunk.js"
   ]
 }
